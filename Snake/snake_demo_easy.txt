@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/ScrollPosition.cpp.o Debug/Renderer.cpp.o Debug/Game.cpp.o Debug/Subject.cpp.o Debug/Observer.cpp.o   
